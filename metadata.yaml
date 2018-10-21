@@ -1,5 +1,5 @@
 _repo: The-Koran-Al-Qur-an_2800
-_version: 0.2.0
+_version: 0.2.1
 alternative_title: Koran. English
 contributor:
   author_of_introduction:
@@ -37,5 +37,6 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcsh 'Qur''an'
 - !lcc 'BP'
+- GITenberg
 title: The Koran (Al-Qur'an)
 url: http://www.gutenberg.org/ebooks/2800
